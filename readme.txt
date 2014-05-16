@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will add responsive soricl share & follow icons. Very easy to use, just put a shortcode. 
+This plugin will add responsive social share & follow icons. Very easy to use, just put a shortcode. 
 
 == Description ==
 
