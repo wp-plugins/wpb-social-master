@@ -188,14 +188,14 @@ class WPB_Settings_API_Test {
                 ),
 				array(
                     'name' => 'wpb_btn_bg_hover_clor',
-                    'label' => __( 'Button Background Color', 'wedevs' ),
+                    'label' => __( 'Button Background Hover Color', 'wedevs' ),
                     'desc' => __( 'Select a color for your buttons background hover color. Default #16a085', 'wedevs' ),
                     'type' => 'color',
                     'default' => '#16a085'
                 ),
 				array(
                     'name' => 'wpb_btn_text_clor',
-                    'label' => __( 'Button Background Color', 'wedevs' ),
+                    'label' => __( 'Button Text Color', 'wedevs' ),
                     'desc' => __( 'Select a color for your buttons text color. Default #ffffff', 'wedevs' ),
                     'type' => 'color',
                     'default' => '#ffffff'
